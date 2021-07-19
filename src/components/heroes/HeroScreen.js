@@ -36,7 +36,7 @@ export const HeroScreen = () => {
            <div className="col-4">
                 <img 
                  alt={ superhero }
-                 src={`./assests/heroes/${ heroeId }.jpg`} 
+                 src={`/../assests/heroes/${ heroeId }.jpg`} 
                  className="img-thumbnail animate__animated animate__fadeInLeft"/> 
            </div>
            
